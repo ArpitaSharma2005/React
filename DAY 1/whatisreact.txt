@@ -1,0 +1,9 @@
+is is javascript library
+facebook-2013
+2015-open source
+
+virtual dom
+
+jab website par khoob sare changehote hai to khub sara repain hota hai wo bhi wo elements jo badle bhi nhahi , aur ye website ko show down kar deta ahi, is cheej se bhi bachne ke liye facebook ne react creation kiya
+
+vdom kya karta hai sirf wo part repoint or re render karta hai jo change hua ho, ya jaha par change karna anivarya ho.
